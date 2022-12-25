@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lamine
 - 👀 I’m interested in Data
-- 🌱 I’m currently a PhD Student in XAI, Bias and Fairness
+- 🌱 I’m currently a PhD candidate at LINEACT CESI / CNAM in XAI, Bias and Fairness.
 - 💞️ I’m looking to collaborate on interesting data project in XAI
 - 📫 How to reach me mlndao@cesi.fr or mouhamadou.ndao@lecnam.net
 
