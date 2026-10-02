@@ -2,7 +2,7 @@
 - 👀 I'm interested in Data.
 🌱 I am currently a Ph.D. student at LINEACT-CESI / CNAM-CEDRIC-MSDMA in XAI, bias, and fairness in machine learning.
 - 💞️ I'm interested in collaborating on a data science project related to my field. Don't hesitate to get in touch with me at the following address:
-- 📫 How to reach me mouhamadou.ndao@lecnam.net or ndao.lamine.nd@gmail.com
+- 📫 How to reach me mlndao@outlook.com or mouhamadou.ndao@lecnam.net
 - 🌐 About me [Page web](https://laminendao.github.io/mlndao/)
 
 <!---
